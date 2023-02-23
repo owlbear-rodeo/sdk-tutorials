@@ -1,0 +1,12 @@
+{
+  "name": "Initiative Tracker",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Initiative Tracker",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 600,
+    "width": 400
+  }
+}
