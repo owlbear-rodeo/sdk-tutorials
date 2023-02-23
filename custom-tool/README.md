@@ -1,6 +1,6 @@
 # Tutorial - Custom Tool
 
-Final code from the tutorial found [here](https://docs.owlbear.rodeo/extensions/category/tutorial---custom-tool).
+Final code from the tutorial found [here](https://docs.owlbear.rodeo/extensions/tutorial-custom-tool/).
 
 ## License
 

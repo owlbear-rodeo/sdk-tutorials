@@ -1,6 +1,6 @@
 # Tutorial - Initiative Tracker
 
-Final code from the tutorial found [here](https://docs.owlbear.rodeo/extensions/category/tutorial---initiative-tracker).
+Final code from the tutorial found [here](https://docs.owlbear.rodeo/extensions/tutorial-initiative-tracker/).
 
 ## License
 
